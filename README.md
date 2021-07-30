@@ -15,6 +15,8 @@ Tools of focus: Matplotlib, Scikit-learn, pandas
 
 The objective of this project was to use unsupervised learning to identfiy customer banking behavior. Clustering was done based off of demographics, transcations, chequing, saving, and credit accounts to find associated patterns.
 
+Link to project: https://github.com/Bonzolo/Lighthouse-Labs-Mini-Project-III
+
 ## Project 4 - Supervised learning: Loan Predictions
 Tools of focus: Scikit-learn, Machine Learning, pickle, Streamlit
 
